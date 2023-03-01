@@ -1,0 +1,2 @@
+ErrorDocument 404 /frontEndprueba/404.html
+ErrorDocument 403 /frontEndprueba/403.html
